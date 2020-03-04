@@ -12,7 +12,7 @@ namespace AspNetCoreOnDocker.Pages
 
         public void OnGet()
         {
-            Message = "Your contact page.";
+            Message = "Your contact page...editing from github";
         }
     }
 }
